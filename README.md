@@ -6,7 +6,7 @@ a Netflix Checker made with Selenium
 
 This is a script I made to demonstrate how you can log-in into Netflix with multiple accounts from a text file. 
 
-This tool is should be used for EDUCATIONAL PURPOSES only.
+This tool should be used for EDUCATIONAL PURPOSES only.
 
 ## Picture
 ![Picture](https://i.postimg.cc/SKsp738V/netflix.png)
